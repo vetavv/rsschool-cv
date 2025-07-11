@@ -2,7 +2,7 @@
 
 ## Contacts
 - __Telegram__: @Vetavvv  
-- __Email__: vinakova.vita@gamil.com  
+- __Email__: vinakova.vita@gmail.com  
 - __GitHub__: [@vetavv](https://github.com/vetavv)  
 
 ## About me
