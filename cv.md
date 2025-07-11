@@ -10,7 +10,7 @@
 
 
 ## Education and Courses
-- Moscow Polytechnic University, *Information Systems and Technologies (IT in Creative Industries)* — 2 years of Bachelor's studies (**not completed**)  
+- Moscow Polytechnic University, Information Systems and Technologies (IT in Creative Industries) — 2 years of Bachelor's studies (**not completed**)  
   - Courses taken: Linear Algebra, OOP, Design Patterns, Mathematical Analysis, Web Design, Basics of Databases
 - [School 21](https://21-school.ru) — (**not completed**)  
   - Studied for 6 months: C, C++, Linux
