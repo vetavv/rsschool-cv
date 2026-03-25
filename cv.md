@@ -1,28 +1,23 @@
 # Violetta Vinakova
 
-## Contacts  
-|          |                                      |
-|----------|--------------------------------------|
-| Telegram | @Vetavvv                             |
-| Email    | vinakova.vita@gmail.com              |
-| GitHub   | [@vetavv](https://github.com/vetavv) | 
-| Location | Russia, Moscow                       |                       
-
 ## About me  
+<img src="https://github.com/user-attachments/assets/ee3d0448-16e9-4c24-a3d0-d05449d8ad30" width="190" align="right">  
+
 >I am a **junior frontend developer** focused on HTML, CSS, and JavaScript. My background includes university studies in computer science, training at School 21, and continued learning at RS School.
 > Currently, I am looking for a junior frontend developer position or internship.
-> ### How I came to programming
-> I first became interested in programming about 4 years ago while preparing for the **exam** in computer science (Russian Unified National Exam).
+> <details>
+>   <summary><b>How I came to programming</b></summary>
+> <p>I first became interested in programming about 4 years ago while preparing for the <b>exam</b> in computer science (Russian Unified National Exam).
 > During that time, I studied the basics of information technology, software, and programming languages, including Python.
 > This experience helped me enter university, where I studied computer science for 2 years and took a range of related courses.
-> At the same time, I also studied at **School 21**.
+> At the same time, I also studied at <b>School 21</b>.</p>
+>   <p>
 > After that, I had about a one-year break in my programming education.
-> Then I decided to continue developing in this field and joined **RS School** to deepen my frontend development skills and work on real projects.
-
-## Skills
+> Then I decided to continue developing in this field and joined <b>RS School</b> to deepen my frontend development skills and work on real projects.</p>
+> </details>
 
 ## Education
-- **2025 - present**: [Rolling Scopes School](https://rs.school)  
+- **2025 - present**: [Rolling Scopes School](https://rs.school) 
 International online programming school.
 - **2022 - 2023:** [School 21](https://21-school.ru)    
 Studied C, C++, and Linux fundamentals.  
@@ -44,3 +39,12 @@ professional JavaScript, Browser App Development
 ## Languages
 - English: B1 (EFSET online test result: 60/100 – [view certificate](https://cert.efset.org/en/e8Yfgj))  
 - Russian: Native
+
+## Contacts
+
+|          |                                      |
+|----------|--------------------------------------|
+| Telegram | @Vetavvv                             |
+| Email    | vinakova.vita@gmail.com              |
+| GitHub   | [@vetavv](https://github.com/vetavv) | 
+| Location | Russia, Moscow                       |   
